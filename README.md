@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Check this cool site https://eynol.github.io
+
+
+- 📫 How to reach me: https://eynol.github.io/contact/
+
 <!--
 **eynol/eynol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
