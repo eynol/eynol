@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on web front biz
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me: https://eynol.github.io/contact/
+
 Check this cool site https://eynol.github.io
 
 🛠️ Tech Stacks
@@ -10,8 +14,6 @@ Check this cool site https://eynol.github.io
 - DevOps: Docker
 - Frontend: React-(80%), Angular, Vue.js
 
-📫 How to reach me
-- https://eynol.github.io/contact/
 
 <!--
 **eynol/eynol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
