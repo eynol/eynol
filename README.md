@@ -2,8 +2,16 @@
 
 Check this cool site https://eynol.github.io
 
+🛠️ Tech Stacks
 
-- 📫 How to reach me: https://eynol.github.io/contact/
+- Testing Tools: Playwright, Cypress...
+- Languages: JavaScript (Node.js), TypeScript, Python, Rust
+- Databases: MongoDB, PostgreSQL, MySQL
+- DevOps: Docker
+- Frontend: React-(80%), Angular, Vue.js
+
+📫 How to reach me
+- https://eynol.github.io/contact/
 
 <!--
 **eynol/eynol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
